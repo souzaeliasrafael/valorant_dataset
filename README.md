@@ -1,4 +1,4 @@
-# Web scraping Valorant - vlr.gg
+# Web Scraping Valorant - vlr.gg
 
 ## Descrição do Projeto:
 
